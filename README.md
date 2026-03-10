@@ -18,10 +18,10 @@ Ambiente corporativo simulado com firewall perimetral, domínio Windows e monito
 
 [Ver detalhes →](./lab1-firewall-ad/)
 
-### ![Status](https://img.shields.io/badge/status-em%20construção-yellow) Lab 2 — Visibilidade & Detecção (SIEM)
+### Lab 2 — Visibilidade & Detecção (SIEM)
 Em construção.
 
-### ![Status](https://img.shields.io/badge/status-em%20construção-yellow) Lab 3 — Attack & Detect
+### Lab 3 — Attack & Detect
 Em construção.
 
 ## Skills Demonstradas
