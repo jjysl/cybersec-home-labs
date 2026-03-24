@@ -130,7 +130,7 @@ Get-Service Sysmon64
 
 ---
 
-## O que deu problema (e como resolveu)
+## O que deu problema (e o que resolveu)
 
 **VM bootando pelo ISO após instalação do pfSense**
 Depois de instalar o pfSense e reiniciar, a VM voltou para o instalador. O problema era que o ISO ainda estava montado na unidade virtual. Solução: remover o ISO nas configurações de armazenamento do VirtualBox antes de reiniciar.
